@@ -1,0 +1,16 @@
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\CsharpLibraryTest.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\CsharpLibraryTest.pdb
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\CsharpLibrary.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\CsharpLibrary.pdb
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\obj\Debug\CsharpLibraryTest.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\obj\Debug\CsharpLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\obj\Debug\CsharpLibraryTest.csproj.CopyComplete
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\obj\Debug\CsharpLibraryTest.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibraryTest\obj\Debug\CsharpLibraryTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibrary\bin\Debug\CsharpLibrary.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibrary\bin\Debug\CsharpLibrary.pdb
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibrary\obj\Debug\CsharpLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibrary\obj\Debug\CsharpLibrary.dll
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibrary\obj\Debug\CsharpLibrary.pdb
+C:\Users\Hasan\Desktop\New folder\CsharpLibrary\CsharpLibrary\obj\Debug\CsharpLibrary.csprojAssemblyReference.cache
